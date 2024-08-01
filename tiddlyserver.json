@@ -1,0 +1,16 @@
+{
+  "tree": {
+    "$mount": {
+      "type": "directory",
+      "path": "backupdir",
+      "alias": "Backup Directory"
+    }
+  },
+  "bindInfo": {
+    "bindAddress": ["127.0.0.1"],
+    "port": 8080
+  },
+  "debugLevel": "info",
+  "datafolder": "backupdir"
+}
+
