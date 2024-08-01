@@ -1,5 +1,1 @@
-Download
-download this repository and type:
-firefox hacking.html
-
-Its not comlication
+My wiki, because firefox bookmarks arent enough
